@@ -1,0 +1,26 @@
+body {
+  
+    background-color: red;
+    font-color: red;
+  }
+  <style>
+  h1{
+      font-size: 16px;
+    }
+  
+     h2 {
+      font-family: Lobster, Monospace;
+    }
+  
+    p {
+      font-size: 16px;
+      font-family: lobster, Monospace;
+    }
+  .thick-white-border {
+      border-color: red;
+      border-width: 10px;
+      border-style: solid;
+   }
+  .bigger-image {
+    width: 1980px;}
+  </style>
